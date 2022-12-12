@@ -4,7 +4,6 @@ const express = require('express');
 // create the express app
 const app = express();
 
-
 const { Configuration, Metadata, Locks } = require("seaplane")
 
 // configure the Seaplane API key
