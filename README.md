@@ -1,4 +1,4 @@
-# Avoiding race conditions with the Seaplane Locks Service - Sample application
+# Seaplane Locks Service - Sample Application
 
 This repository contains the example code used in the Seaplane guide [Using
 Seaplane Locks to avoid race
